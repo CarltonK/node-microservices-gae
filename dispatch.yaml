@@ -1,0 +1,7 @@
+dispatch:
+  - url: '*/withdrawal/*'
+    module: withdrawal
+  - url: '*/credit/*'
+    module: credit
+  - url: '*/deposit/*'
+    module: deposit
